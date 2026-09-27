@@ -1,0 +1,6 @@
+{
+  "name": "Restaurant Management System",
+  "description": "A comprehensive, responsive restaurant management dashboard for tables, menus, orders, billing, and reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
